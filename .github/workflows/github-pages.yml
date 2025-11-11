@@ -1,32 +1,40 @@
-name: GitHub Pages
+name: Build and Deploy Jekyll site
 
 on:
   push:
     branches:
-      - master
+      - master  # GitHub Pages를 연결할 브랜치
 
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
+
     steps:
+      # 1. 레포 체크아웃
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      # 2. Ruby 설치
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.2'
 
+      # 3. Gem 설치
       - name: Install dependencies
         run: |
           gem install bundler
           bundle install
 
+      # 4. Jekyll 빌드
       - name: Build Jekyll site
         run: bundle exec jekyll build
 
+      # 5. Pages 브랜치로 배포
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./_site
+          publish_dir: ./_site       # Jekyll 빌드 출력 디렉토리
+          publish_branch: gh-pages   # Pages가 읽는 브랜치
+          
