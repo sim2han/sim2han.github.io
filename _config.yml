@@ -104,9 +104,9 @@ exclude: ["demo/*", "lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile
 plugins: [jekyll-paginate]
 
 # use this on local
-theme: neo-hpstr-jekyll-theme
+#theme: neo-hpstr-jekyll-theme
 
 # use this on github
-#remote_theme: sim2han/sim2han.github.io
-#plugins:
-#  - jekyll-remote-theme
+remote_theme: sim2han/sim2han.github.io
+plugins:
+  - jekyll-remote-theme
