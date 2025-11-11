@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rust, Dart로 오목 앱, 서버 개발"
+title: "rust, flutter로 오목 앱, 서버 개발"
 description: "풀스택서비스프로그래밍 프로젝트"
 tags: [class project, rust, dart, flutter]
 categories: [project]

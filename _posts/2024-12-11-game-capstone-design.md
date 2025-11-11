@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "헤어, 유체 렌더링 구현"
+title: "헤어, 물 렌더링"
 description: "게임캡스톤디자인 프로젝트"
 modified: 2025-11-11
-tags: [school project, unity, rendering]
+tags: [class project, unity, rendering]
 categories: [project]
 ---
 

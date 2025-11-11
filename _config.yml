@@ -104,6 +104,7 @@ exclude: ["demo/*", "lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile
 plugins: [jekyll-paginate]
 
 # use this on local
+# bundle exec jekyll serve
 #theme: neo-hpstr-jekyll-theme
 
 # use this on github
