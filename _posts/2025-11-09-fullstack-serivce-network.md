@@ -2,8 +2,7 @@
 layout: post
 title: "gRPC 실습"
 description: "풀스택서비스네트워킹 실습"
-modified: 2025-11-11
-tags: [class project, c++, gRPC, Protobuf]
+tags: [class project, c++, gRPC]
 categories: [project]
 ---
 
