@@ -3,7 +3,7 @@ name: GitHub Pages
 on:
   push:
     branches:
-      - main  # 혹은 master, 레포 기준
+      - master
 
 jobs:
   build-deploy:
