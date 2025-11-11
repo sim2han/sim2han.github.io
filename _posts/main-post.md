@@ -1,0 +1,15 @@
+---
+layout: post
+title: "메인 페이지"
+description: "다른 포스트를 정리해놓은 메인 페이지"
+tags: [sample post, images, test]
+categories: [sample, intro]
+---
+
+## 학교 과제
+
+풀스택서비스네트워킹 - gRPC 실습
+
+## 취미
+
+Rope
