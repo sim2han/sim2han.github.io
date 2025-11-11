@@ -7,4 +7,6 @@ tags: [school project, unity, rendering]
 categories: [project]
 ---
 
-유니티에서 헤어, 유체 렌더링을 구현한다.
+### 요약
+
+유니티에서 Kajiya-kay, Marschner 모델을 사용한 헤어 렌더링과 ray marching을 사용한 유체 렌더링, Screen Space Reflection을 구현한다.

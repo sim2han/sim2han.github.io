@@ -11,6 +11,10 @@ categories: [project]
 
 [[github page]](https://github.com/sim2han/IWBTPY)
 
+### 요약
+
+pygame을 이용해 
+
 ## 목표
 
 수업에서 배운 내용을 바탕으로 게임을 제작하는 프로젝트를 진행했다. 
