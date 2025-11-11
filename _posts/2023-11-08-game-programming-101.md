@@ -13,7 +13,7 @@ categories: [project]
 
 ### 요약
 
-pygame을 이용해 
+pygame을 이용해 간단한 충돌, 중력 반전 요소가 있는 플랫포머를 제작했다.
 
 ## 목표
 
