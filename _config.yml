@@ -1,4 +1,4 @@
-title:            Blog Title
+title:            심심한 사람의 놀이터
 description:      Describe your website here.
 
 # put your disqus here
@@ -38,7 +38,7 @@ menu:
 
 # Owner/author information
 owner:
-  name:           문 호성
+  name:           문호성
   site:           https::sim2han.github.io
   avatar:         images/avatar.jpg
   bio:            "즐거운 개발자"
