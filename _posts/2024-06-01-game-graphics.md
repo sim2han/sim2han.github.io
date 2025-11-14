@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "D3D 렌더링, 애니메이션 실습"
+title: "D3D11 렌더링, 애니메이션 실습"
 description: "게임그래픽프로그래밍 실습"
-tags: [class project, c++, rendering]
+tags: [c++, rendering]
 categories: [project]
 ---
 

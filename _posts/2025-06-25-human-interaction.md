@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "모바일 디바이스를 사용한 마우스 장치"
+title: "모바일 디바이스를 사용한 마우스, 터치패드 하이브리드 장치 개발"
 description: "게임인터렉티브테크놀로지 프로젝트"
 modified: 2025-11-11
-tags: [class project, kotlin, android, rust]
+tags: [android, rust]
 categories: [project]
 ---
+
+
+![alt text](/images/posts/mo-ouse/thumbnail.png)
 
 ### 요약
 

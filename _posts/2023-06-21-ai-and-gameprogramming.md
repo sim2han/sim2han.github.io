@@ -3,7 +3,7 @@ layout: post
 title: "렌더링 과정 모사와 다양한 upscaling"
 description: "인공지능과게임프로그래밍 프로젝트"
 modified: 2025-11-11
-tags: [class project, c++, rendering]
+tags: [c++, rendering]
 categories: [project]
 ---
 

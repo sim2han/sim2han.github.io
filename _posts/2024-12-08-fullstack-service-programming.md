@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "rust, flutter로 오목 앱, 서버 개발"
+title: "가벼운 오목 한판 Five-in-a-row"
 description: "풀스택서비스프로그래밍 프로젝트"
-tags: [class project, rust, dart, flutter]
+tags: [rust, flutter]
 categories: [project]
 ---
 

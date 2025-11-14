@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "pygame을 이용한 플래포머 게임 제작"
+title: "pygame 플랫포머 제작"
 description: "게임프로그래밍입문 프로젝트"
 modified: 2025-11-11
-tags: [class project, python]
+tags: [python]
 categories: [project]
 ---
 
