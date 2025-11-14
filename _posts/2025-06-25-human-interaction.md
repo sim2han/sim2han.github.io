@@ -10,6 +10,8 @@ categories: [project]
 
 ![alt text](/images/posts/mo-ouse/thumbnail.png)
 
+[[github]](https://github.com/sim2han/mo-ouse)
+
 ### 요약
 
 Android Studio로 모바일 클라이언트, rust로 PC 서버를 제작하고, 스마트폰의 가속도계로 마우스를 움직일 수 있게 하는 인풋 장치를 개발했다.
